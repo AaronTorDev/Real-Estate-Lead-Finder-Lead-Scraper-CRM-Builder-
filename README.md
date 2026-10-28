@@ -3,7 +3,7 @@ Automated Python scraper &amp; lead scorer using Playwright. Generates a priorit
 
 An automated **Python** script designed to solve cold outreach friction and uncover operational inefficiencies in the real estate sector. The system extracts, filters, scores, and structures a database of active real estate brokers and agencies from the local Chamber of Associates, generating a high-value, action-ready CRM in Excel format.
 
-## 📌 The Business Problem (The "Why")
+## The Business Problem (The "Why")
 
 In the real estate industry, manual prospecting is slow and inefficient. Developers often pitch automations to low-budget agencies or offer social media services that the client doesn't see as a critical, immediate need.
 
@@ -13,7 +13,7 @@ This script acts as the **first step in the value chain**: it generates a struct
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 The script automates the extraction and scoring process through four main stages:
 
@@ -32,7 +32,7 @@ The script automates the extraction and scoring process through four main stages
 
 ---
 
-## 📋 System Requirements
+##  System Requirements
 
 The script is lightweight and runs locally on any environment supporting Python 3.
 
@@ -42,7 +42,7 @@ The script is lightweight and runs locally on any environment supporting Python 
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 Follow these steps to clone the repository, set up your virtual environment, and run the lead scraper:
 
@@ -86,7 +86,7 @@ Once completed, a success message will print in your terminal, and `crm_prospect
 
 ---
 
-## 📁 CRM Output Structure
+##  CRM Output Structure
 
 The generated Excel file contains the following columns optimized for business development:
 
@@ -102,7 +102,7 @@ The generated Excel file contains the following columns optimized for business d
 
 ---
 
-## 📈 Future Roadmap & Scalability
+##  Future Roadmap & Scalability
 * **Automated Outbound Pipeline:** Direct integration with messaging and cold emailing APIs (e.g., SendGrid, Twilio) for instant touchpoints.
 * **AI Auditor:** Integrating LLM agents to read the scraped websites and automatically pinpoint slow load speeds or outdated layout practices before making the sales pitch.
 ```
