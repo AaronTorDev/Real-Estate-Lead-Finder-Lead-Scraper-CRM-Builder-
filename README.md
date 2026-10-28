@@ -79,10 +79,10 @@ playwright install chromium
 ### 5. Run the Script
 Execute the main script to start the scraping process and build the CRM:
 ```bash
-python scraper.py
+python crm_generator.py
 ```
 
-Once completed, a success message will print in your terminal, and `crm_prospectos_completo.xlsx` will be generated in your project's root folder.
+Once completed, a success message will print in your terminal, and `crm_prospects_complete.xlsx` will be generated in your project's root folder.
 
 ---
 
